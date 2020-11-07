@@ -1,1 +1,1 @@
-# CompetitivePG
+# 競技プロラグラミング/CompetitivePG
